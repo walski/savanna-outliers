@@ -1,4 +1,4 @@
-require 'descriptive_statistics/safe'
+require 'descriptive_statistics'
 require 'statistics2'
 require 'savanna-outliers/general_parameters'
 require 'savanna-outliers/grubbs'
